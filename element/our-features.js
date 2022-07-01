@@ -8,7 +8,7 @@ function Features() {
 				<div className="section-head style-3 text-center">
 				<div className="section-head style-1">
 							<h6 className="sub-title bgl-primary m-b20 text-primary">Features</h6>
-							<h3 className="text-primary">Minilive app helps users to create and edit their own videos and share them with the world.</h3>
+							<h3 className="text-primary">We help users to create and edit their own videos and share them with the world.</h3>
 						</div>
 				</div>
 				<div className="row align-items-center about-wraper-2">
