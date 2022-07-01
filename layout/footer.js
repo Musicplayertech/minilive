@@ -43,7 +43,7 @@ function Footer() {
 					<div className="col-xl-6 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div className="widget widget_about">
 							<h5 className="footer-title">Offices</h5>
-							<p><h5> Bengaluru -</h5> No. 45/B, Shubham Complex, 1st A Main, 3rd Floor, Rear Wing, Sarakki Industrial Layout, 3rd Phase, 
+							<p><h5 > Bengaluru -</h5> No. 45/B, Shubham Complex, 1st A Main, 3rd Floor, Rear Wing, Sarakki Industrial Layout, 3rd Phase, 
 								J. P. Nagar, Bengaluru, Karnataka 560078. <br/> <h5>Mumbai -</h5> Advent Atria Tower, 503, Chincholi Bunder Rd, opp. Kingston Height, Malad West, Mumbai, Maharashtra 400064.</p>
 							<div className="dlab-social-icon">
 								<ul>

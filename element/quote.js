@@ -58,7 +58,7 @@ function Quote() {
 											<div className="input-group-prepend">
 												<span className="input-group-text"><i className="la la-file-alt"></i></span>
 											</div>
-											<input name="dzOther[project_title]" type="text" className="form-control" required placeholder="Project Title" />
+											<input name="dzOther[project_title]" type="text" className="form-control" required placeholder="Title" />
 										</div>
 									</div>
 									<div className="col-sm-6">
@@ -67,7 +67,7 @@ function Quote() {
 												<span className="input-group-text"><i className="la la-list"></i></span>
 											</div>
 											<select name="dzOther[choose_service]" className="form-control" required>
-												<option selected>Choose Service</option>
+												<option selected>Products/Services</option>
 												<option value="1">Minilive - Short Videos</option>
 												<option value="2">MiniPIX</option>
 												<option value="3">MiniLive Studios</option>

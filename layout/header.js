@@ -58,16 +58,29 @@ function Header() {
 										<li><Link href="/services-details-1"><a>Services Details</a></Link></li> */}
                                     </ul>
                                 </li>
-                                {/* <li className={`${open === "blog" ? "open" : ""}`}><a onClick={() => setOpen("blog")}><span>Blog</span><i className="fa fa-chevron-down"></i></a>
+                                {/*
+                                <li className={`${open === "blog" ? "open" : ""}`}><a onClick={() => setOpen("blog")}><span>Blog</span><i className="fa fa-chevron-down"></i></a>
                                     <ul className="sub-menu">
                                         <li><Link href="/blog-large-right-sidebar"><a>Large Right Sidebar</a></Link></li>
 										<li><Link href="/blog-details-1"><a>Blog Details</a></Link></li>
                                     </ul>
-                                </li> */}
-                                <li><Link href="/team"><a>Core Team</a></Link></li>
-                                <li><Link href="/"><a>About Us</a></Link></li>
+                                </li>
+                                 */}
+                               
+                                <li className={`${open === "aboutus" ? "open" : ""}`}><a onClick={() => setOpen("aboutus")}><span>About Us</span><i className="fa fa-chevron-down"></i></a>
+                                    <ul className="sub-menu">
+                                        <li><Link href="/"><a>About US</a></Link></li> 
+                                        <li><Link href="/team"><a>Core Team</a></Link></li>
+                                        <li><Link href="/"><a>Culture</a></Link></li> 
+                                        <li><Link href="/"><a>Content Policy</a></Link></li> 
+                                        <li><Link href="/"><a>Privacy Policy</a></Link></li> 
+                                        <li><Link href="/"><a>Media</a></Link></li> 
+                                    </ul>
+                                </li>
+                                
 								<li><Link href="/contact-us"><a>Contact Us</a></Link></li>
-                                <li><Link href="/"><a>Media</a></Link></li>
+                              
+                                <li><Link href="/channel-partner"><a>Channel Partner</a></Link></li>
                             </ul>
                             <div className="dlab-social-icon">
                                 <ul>

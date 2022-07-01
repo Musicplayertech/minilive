@@ -81,7 +81,7 @@ function Features() {
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Available in multiple Languages</h4>
 										<p>
-										 Minilive available in हिंदी, भोजपुरी, ಕನ್ನಡ, தமிழ், తెలుగు, മലയാളം, मराठी, ગુજરાતી, বাংলা, ଓଡିଆ, English.
+										 Minilive available in हिंदी, भोजपुरी, ಕನ್ನಡ, தமிழ், తెలుగు, മലയാളം, मराठी, ગુજરાતી, বাংলা, ଓଡିଆ & English.
 										 	</p>
 									</div>
 								</div>
