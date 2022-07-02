@@ -83,7 +83,7 @@ function Footer() {
 				</div>
 				<div className="row">
                     <div className="col-sm-12 text-center"> 
-						<span className="copyright-text">Copyright © 2022 <a className="text-primary" href="https://minilive.in/" target="_blank">Intellogic Innovations Pvt Ltd.</a>. All rights reserved.</span> 
+					<p > Copyright © 2022 <span className="text-primary"> Intellogic Innovations Pvt Ltd.</span> All rights reserved. </p> 
 					</div>
                 </div>
             </div>

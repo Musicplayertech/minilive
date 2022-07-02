@@ -45,10 +45,8 @@ function Header() {
                                     </ul>
                                 </li> */}
                                 <li className={`${open === "services" ? "open" : ""}`}><a onClick={() => setOpen("services")}><span>Products & Services</span><i className="fa fa-chevron-down"></i></a>
-                                    <ul className="sub-menu">
-
-                                   
-                                    <li><Link href="/"><a>MiniPIX</a></Link></li>
+                                    <ul className="sub-menu"> 
+                                    <li> <a href="https://beta.minipix.in/" target='_blank'>MiniPIX</a> </li>
                                     <li><Link href="/"><a>Minilive</a></Link></li>
                                     <li><Link href="/"><a>Minilive Studio</a></Link></li>
                                     <li><Link href="/"><a>Production</a></Link></li>
@@ -78,7 +76,7 @@ function Header() {
                                 
 								<li><Link href="/contact-us"><a>Contact Us</a></Link></li>
                               
-                                <li><Link href="/"><a>Media</a></Link></li> 
+                                <li><Link href="/media"><a>Media</a></Link></li> 
                             </ul>
                             <div className="dlab-social-icon">
                                 <ul>

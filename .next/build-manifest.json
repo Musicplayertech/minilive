@@ -40,6 +40,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/contact-us.js"
     ],
+    "/media": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/media.js"
+    ],
     "/team": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
