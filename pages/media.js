@@ -39,7 +39,7 @@ function BlogLargeRightSidebar() {
 									</ul>
 								</div>
 								<h4 className="dlab-title">
-									<a href="https://yourstory.com/2021/03/navigating-indias-evolving-social-media-landscape-key-takeaways-sector-leaders/amp" target="_blank">Brave new world: Navigating India’s evolving social media landscape | 5 key takeaways from sector leaders.</a>
+									<a className="text-primary" href="https://yourstory.com/2021/03/navigating-indias-evolving-social-media-landscape-key-takeaways-sector-leaders/amp" target="_blank">Brave new world: Navigating India’s evolving social media landscape | 5 key takeaways from sector leaders.</a>
 								</h4>
 								<p className="m-b0">MiniLive’s Brijesh said that he is working towards enabling quality streaming on his platform above all else, which will lead to better acquisition and retention, given that users seek it the most.</p>
 							</div>
@@ -68,7 +68,7 @@ function BlogLargeRightSidebar() {
 									</ul>
 								</div>
 								<h4 className="dlab-title">
-									<a href="https://zeenews.india.com/hindi/india/up-uttarakhand/mp-ravi-kishan-launched-an-app-called-mini-live-india-in-gorakhpur-uppm/828211" target="_blank">सांसद रवि किशन ने लांच किया टिकटॉक जैसा मिनी लाइव ऐप, कहा-आत्मनिर्भर भारत के निर्माण में निभाएगा अहम भूमिका</a>
+									<a className="text-primary" href="https://zeenews.india.com/hindi/india/up-uttarakhand/mp-ravi-kishan-launched-an-app-called-mini-live-india-in-gorakhpur-uppm/828211" target="_blank">सांसद रवि किशन ने लांच किया टिकटॉक जैसा मिनी लाइव ऐप, कहा-आत्मनिर्भर भारत के निर्माण में निभाएगा अहम भूमिका</a>
 								</h4>
 								<p className="m-b0">प्रदीप तिवारी/गोरखपुर: मकर संक्रांति के अवसर पर गोरखपुर सदर सांसद रवि किशन ने एक स्थानीय होटल में पहुंचकर टिकटॉक की तर्ज पर बने मिनी लाइव ऐप को लांच किया.
 								</p>
@@ -98,7 +98,7 @@ function BlogLargeRightSidebar() {
 									</ul>
 								</div>
 								<h4 className="dlab-title">
-									<a href="https://zeenews.india.com/hindi/india/up-uttarakhand/mp-ravi-kishan-launched-an-app-called-mini-live-india-in-gorakhpur-uppm/828211" target="_blank">
+									<a className="text-primary" href="https://zeenews.india.com/hindi/india/up-uttarakhand/mp-ravi-kishan-launched-an-app-called-mini-live-india-in-gorakhpur-uppm/828211" target="_blank">
 										लोकल कलाकारों की प्रतिभा को प्लेटफार्म देगा मिनी लाइव ऐप : रवि किशन</a>
 								</h4>
 								<p className="m-b0">गोरखपुर,14 जनवरी( हि. स.)। गोरखपुर के सांसद रवि किशन ने गुरुवार को मकर संक्रांति के अवसर पर स्थानीय कलाकारों को प्लेटफार्म देने और आत्म निर्भर भारत को बढ़ावा देने के लिए गोरखपुर के युवाओं द्वारा तैयार मिनी लाइव ऐप को लांच किया। सांसद और फिल्म स्टार रवि इस ऐप के ब्रांड एम्बेसडर भी है.  इस ऐप की टैगलाइन 'दिल से देशी ऐप'' है. इस ऐप का उद्देश्य लोकल कलाकारों की प्रतिभा को दिखाना है. इस ऐप को पूर्वांचल के युवाओं ने बनाया है. </p>
@@ -128,7 +128,7 @@ function BlogLargeRightSidebar() {
 									</ul>
 								</div>
 								<h4 className="dlab-title">
-									<a href="https://www.etvbharat.com/hindi/uttar-pradesh/state/gorakhpur/mp-ravi-kishan-launched-mini-live-app-in-gorakhpur/up20210114204620185" target="_blank">गोरखपुर जिले में सासंद रवि किशन ने मिनी लाइव ऐप को लांच किया है. वह इस ऐप के ब्रांड एंबेसडर भी हैं. इस ऐप से स्थानीय कलाकारों को अपनी भाषाओं में मंच बनाने का मौका मिलेगा</a>
+									<a className="text-primary" href="https://www.etvbharat.com/hindi/uttar-pradesh/state/gorakhpur/mp-ravi-kishan-launched-mini-live-app-in-gorakhpur/up20210114204620185" target="_blank">गोरखपुर जिले में सासंद रवि किशन ने मिनी लाइव ऐप को लांच किया है. वह इस ऐप के ब्रांड एंबेसडर भी हैं. इस ऐप से स्थानीय कलाकारों को अपनी भाषाओं में मंच बनाने का मौका मिलेगा</a>
 								</h4>
 								<p className="m-b0">गोरखपुर,14 जनवरी( हि. स.)। गोरखपुर के सांसद रवि किशन ने गुरुवार को मकर संक्रांति के अवसर पर स्थानीय कलाकारों को प्लेटफार्म देने और आत्म निर्भर भारत को बढ़ावा देने के लिए गोरखपुर के युवाओं द्वारा तैयार मिनी लाइव ऐप को लांच किया। सांसद और फिल्म स्टार रवि इस ऐप के ब्रांड एम्बेसडर भी है </p>
 							</div>
