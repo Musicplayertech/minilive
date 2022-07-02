@@ -69,18 +69,16 @@ function Header() {
                                
                                 <li className={`${open === "aboutus" ? "open" : ""}`}><a onClick={() => setOpen("aboutus")}><span>About Us</span><i className="fa fa-chevron-down"></i></a>
                                     <ul className="sub-menu">
-                                        <li><Link href="/"><a>About US</a></Link></li> 
+                                        <li><Link href="/about-us"><a>About US</a></Link></li> 
                                         <li><Link href="/team"><a>Core Team</a></Link></li>
-                                        <li><Link href="/"><a>Culture</a></Link></li> 
-                                        <li><Link href="/"><a>Content Policy</a></Link></li> 
-                                        <li><Link href="/"><a>Privacy Policy</a></Link></li> 
-                                        <li><Link href="/"><a>Media</a></Link></li> 
+                                        <li><Link href="/"><a>Culture</a></Link></li>  
+                                        
                                     </ul>
                                 </li>
                                 
 								<li><Link href="/contact-us"><a>Contact Us</a></Link></li>
                               
-                                <li><Link href="/channel-partner"><a>Channel Partner</a></Link></li>
+                                <li><Link href="/"><a>Media</a></Link></li> 
                             </ul>
                             <div className="dlab-social-icon">
                                 <ul>

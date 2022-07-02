@@ -15,7 +15,7 @@ function Quote() {
 								<h6 className="sub-title bgl-primary m-b20 text-primary">Contact Us</h6>
 								<p>When there are great ideas at stake, it’s always a good idea to share. Tell us how can we make it happen for you!
 
-<br/><span className="text-primary ">Fill the form below or mail us @ - connect@minilive.in</span></p>
+<br/><span className="text-primary ">Fill the form below or mail us at - help@minilive.in</span></p>
 							</div>
 							<form className="dlab-form dzForm" method="POST" action="script/contact.php">
 								<div className="dzFormMsg"></div>
@@ -24,7 +24,7 @@ function Quote() {
 									<div className="col-sm-6">
 										<div className="input-group">
 											<div className="input-group-prepend">
-												<span className="input-group-text"><i className="la la-user"></i></span>
+												<span className="input-group-text"><i className="la la-user text-mini"></i></span>
 											</div>
 											<input name="dzName" type="text" required className="form-control" placeholder="First Name" />
 										</div>
@@ -32,7 +32,7 @@ function Quote() {
 									<div className="col-sm-6">
 										<div className="input-group">
 											<div className="input-group-prepend">
-												<span className="input-group-text"><i className="la la-user"></i></span>
+												<span className="input-group-text"><i className="la la-user text-mini"></i></span>
 											</div>
 											<input name="dzOther[last_name]" type="text" className="form-control" required placeholder="Last Name" />
 										</div>
@@ -40,7 +40,7 @@ function Quote() {
 									<div className="col-sm-6">
 										<div className="input-group">
 											<div className="input-group-prepend">
-												<span className="input-group-text"><i className="la la-envelope"></i></span>
+												<span className="input-group-text"><i className="la la-envelope text-mini"></i></span>
 											</div>
 											<input name="dzEmail" type="text" required className="form-control" placeholder="Email Address" />
 										</div>
@@ -48,23 +48,23 @@ function Quote() {
 									<div className="col-sm-6">
 										<div className="input-group">
 											<div className="input-group-prepend">
-												<span className="input-group-text"><i className="la la-phone"></i></span>
+												<span className="input-group-text"><i className="la la-phone text-mini"></i></span>
 											</div>
-											<input name="dzOther[phone]" type="text" required className="form-control" placeholder="Phone No." />
+											<input name="dzOther[phone]" type="text" required className="form-control" placeholder="Mobile Number" />
 										</div>
 									</div>
 									<div className="col-sm-6">
 										<div className="input-group">
 											<div className="input-group-prepend">
-												<span className="input-group-text"><i className="la la-file-alt"></i></span>
+												<span className="input-group-text"><i className="la la-file-alt text-mini"></i></span>
 											</div>
-											<input name="dzOther[project_title]" type="text" className="form-control" required placeholder="Title" />
+											<input name="dzOther[project_title]" type="text" className="form-control" required placeholder="Subject" />
 										</div>
 									</div>
 									<div className="col-sm-6">
 										<div className="input-group">
 											<div className="input-group-prepend">
-												<span className="input-group-text"><i className="la la-list"></i></span>
+												<span className="input-group-text"><i className="la la-list text-mini"></i></span>
 											</div>
 											<select name="dzOther[choose_service]" className="form-control" required>
 												<option selected>Products/Services</option>
@@ -79,7 +79,7 @@ function Quote() {
 									<div className="col-sm-12">
 										<div className="input-group">
 											<div className="input-group-prepend">
-												<span className="input-group-text"><i className="la la-sms"></i></span>
+												<span className="input-group-text"><i className="la la-sms text-mini"></i></span>
 											</div>
 											<textarea name="dzMessage" required className="form-control" placeholder="Message"></textarea>
 										</div>
@@ -94,7 +94,7 @@ function Quote() {
 										sitekey="6LefsVUUAAAAADBPsLZzsNnETChealv6PYGzv3ZN"
 										onChange={onChange}
 									/> */}
-									<div className="col-sm-12 mt-2">
+									<div className="col-sm-6 mt-0">
 										<button name="submit" type="submit" value="Submit" className="btn btn-link d-inline-flex align-items-center"><i className="fa fa-angle-right m-r10"></i>Submit Now</button>
 									</div>
 								</div>

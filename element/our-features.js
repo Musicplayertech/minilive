@@ -50,7 +50,7 @@ function Features() {
 					</div>
 					<div className="col-lg-4 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div className="dz-media text-center m-b30">
-							<img src="images/about/fetures.png" className="move-1" alt=""/>
+							<img src="images/about/features.png" className="move-1" alt=""/>
 						</div>
 					</div>
 					<div className="col-lg-4">

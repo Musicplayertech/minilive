@@ -23,7 +23,7 @@ function Service() {
             <h6 className="sub-title bgl-primary m-b20 text-primary">
               Products & Services
             </h6>
-            <h2 className="title text-primary">We Provide Awesome Service To You</h2>
+            <h2 className="title text-primary">Hum hain " Dil Se Desi "</h2>
           </div>
           <div className="row">
             <div
@@ -78,7 +78,7 @@ function Service() {
                  <img src="images/Services/minilive.png"/>
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title">Minilive</h4>
+                  <h4 className="dlab-title">MiniLive</h4>
                   <p>
                   MiniLive-An Indian Short Video App, Come & Hop On ! To A Fun Filled FULL Time Entertainment Journey With Our Product & Services.
                   </p>
