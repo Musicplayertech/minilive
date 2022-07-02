@@ -14439,14 +14439,14 @@ textarea {
   z-index: 0;
 }
 .icon-bx-wraper.style-1:before {
-  background-image: url(.././public/images/pattern/pattern5.png);
+  /* background-image: url(.././public/images/pattern/pattern.png); */
   height: 100%;
   top: -30px;
   left: -30px;
   width: 100%;
 }
 .icon-bx-wraper.style-1:after {
-  background-image: url(.././public/images/pattern/pattern6.png);
+  /* background-image: url(.././public/images/pattern/pattern6.png); */
   height: 290px;
   bottom: -40px;
   right: -30px;
