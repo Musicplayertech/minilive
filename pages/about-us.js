@@ -9,7 +9,7 @@ import Blog from '../element/blog';
 import Link from 'next/link';
 import Quote from '../element/quote';
 
-function AboutUs1() {
+function AboutUs() {
     const [isOpen, setOpen] = useState(false)
     return (
         <>
@@ -172,4 +172,4 @@ function AboutUs1() {
     );
 }
 
-export default AboutUs1;
+export default AboutUs;

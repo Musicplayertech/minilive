@@ -3,7 +3,7 @@ import Footer from './../layout/footer';
 import Link from 'next/link';
 
 
-function BlogLargeRightSidebar() {
+function Media() {
   return (
     <>
 	<Header/>
@@ -150,4 +150,4 @@ function BlogLargeRightSidebar() {
   )
 }
 
-export default BlogLargeRightSidebar;
+export default Media;

@@ -46,7 +46,7 @@ function Service() {
                   {/* <a href="javascript:void(0);" className="icon-cell"> */}
                     {/* <i className="fa fa-play-circle"></i> 
                      </a> */}
-                    <img src="images/Services/minipix.png"/>
+                    <img  className="move-1" src="images/Services/minipix.png"/>
                  
                 </div>
                 <div className="icon-content">
@@ -75,7 +75,7 @@ function Service() {
                 //   <a href="javascript:void(0);" className="icon-cell">
                 //     <i className="flaticon-website"></i>
                 //   </a> */}
-                 <img src="images/Services/minilive.png"/>
+                 <img className="move-1" src="images/Services/minilive.png"/>
                 </div>
                 <div className="icon-content">
                   <h4 className="dlab-title text-primary">MiniLive</h4>
@@ -103,7 +103,7 @@ function Service() {
                 //   <a href="javascript:void(0);" className="icon-cell">
                 //     <i className="flaticon-website"></i>
                 //   </a> */}
-                 <img src="images/Services/studio.png"/>
+                 <img  className="move-1" src="images/Services/studio.png"/>
                 </div>
                 <div className="icon-content">
                   <h4 className="dlab-title text-primary">MiniLive Studios</h4>
@@ -135,7 +135,7 @@ function Service() {
                 //   <a href="javascript:void(0);" className="icon-cell">
                 //     <i className="flaticon-website"></i>
                 //   </a> */}
-                 <img src="images/Services/production.png"/>
+                 <img  className="move-1" src="images/Services/production.png"/>
                 </div>
                 <div className="icon-content">
                   <h4 className="dlab-title text-primary">Production</h4>
@@ -163,7 +163,7 @@ function Service() {
                 //   <a href="javascript:void(0);" className="icon-cell">
                 //     <i className="flaticon-website"></i>
                 //   </a> */}
-                 <img src="images/Services/branding.png"/>
+                 <img  className="move-1" src="images/Services/branding.png"/>
                 </div>
                 <div className="icon-content">
                   <h4 className="dlab-title text-primary">Branding</h4>
@@ -191,11 +191,11 @@ function Service() {
                 //   <a href="javascript:void(0);" className="icon-cell">
                 //     <i className="flaticon-website"></i>
                 //   </a> */}
-                 <img src="images/Services/support.png"/>
+                 <img  className="move-1" src="images/Services/support.png"/>
                 </div>
                 <div className="icon-content">
                   <h4 className="dlab-title text-primary">24X7 Support</h4>
-                  <p>
+                  <p className="text-black">
                   Please feel free to write to us at connect@minilive.in for any feedback or queries. 
                    It will help us reach out to you quickly.
 

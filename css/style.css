@@ -19757,7 +19757,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
 
 .top-bar {
   background-color: #fff;
-  color: #262f5a;
+  color: #222222;
   padding: 8px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
@@ -20159,7 +20159,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
 }
 .header-nav .nav > li .mega-menu li a,
 .header-nav .nav > li .sub-menu li a {
-  color: #262f5a;
+  color: #222222;
   display: block;
   font-size: 15px;
   padding: 10px 25px;
@@ -20254,7 +20254,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
     width: 5px;
     content: "";
     height: 5px;
-    background: #262f5a !important;
+    background: #222222 !important;
     border-radius: 4px;
     top: 13px;
   }

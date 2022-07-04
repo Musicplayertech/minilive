@@ -48,9 +48,9 @@ function Header() {
                                     <ul className="sub-menu"> 
                                     <li> <a href="https://beta.minipix.in/" target='_blank'>MiniPIX</a> </li>
                                     <li><Link href="/"><a>MiniLive</a></Link></li>
-                                    <li><Link href="/"><a>MiniLive Studios</a></Link></li>
-                                    <li><Link href="/"><a>Production</a></Link></li>
-                                    <li><Link href="/"><a>Branding</a></Link></li>
+                                    <li><Link href="/minilive-studios"><a>MiniLive Studios</a></Link></li>
+                                    <li><Link href="/production"><a>Production</a></Link></li>
+                                    <li><Link href="/branding"><a>Branding</a></Link></li>
 
 										{/* <li><Link href="/services-1"><a>Services</a></Link></li>
 										<li><Link href="/services-details-1"><a>Services Details</a></Link></li> */}
@@ -69,7 +69,7 @@ function Header() {
                                     <ul className="sub-menu">
                                         <li><Link href="/about-us"><a>About US</a></Link></li> 
                                         <li><Link href="/team"><a>Core Team</a></Link></li>
-                                        <li><Link href="/"><a>Culture</a></Link></li>  
+                                        <li><Link href="/culture-careers"><a>Culture & Careers</a></Link></li>  
                                         
                                     </ul>
                                 </li>

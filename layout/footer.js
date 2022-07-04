@@ -26,11 +26,11 @@ function Footer() {
 						<div className="widget widget_services">
 							<h5 className="footer-title">Our links</h5>
 							<ul>
-								<li ><a href="javascript:void(0);" className="text-black">Home</a></li>
-								<li><a href="javascript:void(0);" className="text-black">About Us</a></li>
-								<li><a href="javascript:void(0);" className="text-black">Services</a></li>
-								<li><a href="javascript:void(0);" className="text-black">Team</a></li>
-								<li><a href="javascript:void(0);" className="text-black">Blog</a></li>
+								<li ><a href="/" className="text-black">Home</a></li>
+								<li><a href="/about-us" className="text-black">About Us</a></li>
+								<li><a href="/media" className="text-black">Media</a></li>
+								<li><a href="/team" className="text-black">Our Team</a></li>
+								<li><a href="/culture-careers" className="text-black">Culture & Careers</a></li>
 							</ul>
 						</div>
                     </div>
@@ -38,11 +38,11 @@ function Footer() {
 						<div className="widget widget_services">
 							<h5 className="footer-title">Our Services</h5>
 							<ul>
-								<li><a href="javascript:void(0);" className="text-black">MiniPIX</a></li>
-								<li><a href="javascript:void(0);" className="text-black">Minilive</a></li>
-								<li><a href="javascript:void(0);" className="text-black">Minilive Studio</a></li>
-								<li><a href="javascript:void(0);" className="text-black">Production</a></li>
-								<li><a href="javascript:void(0);" className="text-black">Branding </a></li>
+								<li><a href="https://beta.minipix.in" target="_blank" className="text-black">MiniPIX</a></li>
+								<li><a href="/" className="text-black">Minilive</a></li>
+								<li><a href="/minilive-studios" className="text-black">Minilive Studio</a></li>
+								<li><a href="/production" className="text-black">Production</a></li>
+								<li><a href="/branding" className="text-black">Branding </a></li>
 							</ul>
 						</div>
                     </div> 
@@ -71,7 +71,6 @@ function Footer() {
 						<div className="icon">
 								<ul>
 									<li><a href="https://www.facebook.com/MiniLiveApp/" target="_blanck"><img src="images/social/fb.png"/></a>
-									
 									 <a href="https://twitter.com/MiniLiveApp"  target="_blanck"><img src="images/social/twitter.png"/></a> 
 									 <a href="https://www.linkedin.com/company/minilive/"  target="_blanck"><img src="images/social/in.png"/></a> 
 									 <a href="https://www.instagram.com/miniliveapp/" target="_blanck"><img src="images/social/insta.png"/></a> 
