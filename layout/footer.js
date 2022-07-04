@@ -16,7 +16,7 @@ function Footer() {
 								<div className=""> 
 									<a href="javascript:void(0);" className="icon-cell text-black">
 									<i class="fa fa-envelope" aria-hidden="true"> &nbsp;</i>
-								 - help@minilive.in</a> 
+								  help@minilive.in</a> 
 								</div>
 								 
 						 

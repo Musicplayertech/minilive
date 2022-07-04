@@ -1,4 +1,6 @@
+
 import { useEffect, useState } from "react";
+import Link from 'next/link';
 // import { WOW } from "wowjs";
 
 function Service() {
@@ -31,7 +33,8 @@ function Service() {
               data-wow-duration="2s"
               data-wow-delay="0.2s"
             >
-              <div
+             <a href="https://beta.minipix.in" target="_blank">
+              <div  
                 className={`${
                   open === "p1"
                     ? "icon-bx-wraper style-1 box-hover text-center m-b30 active"
@@ -50,18 +53,23 @@ function Service() {
                  
                 </div>
                 <div className="icon-content">
+              
                   <h4 className="dlab-title text-primary">MiniPIX</h4>
-                  <p>
+                  <p className="text-black">
                   Our Services are built to be for Every Common Person’s ENTERTAINMENT reach with a catalogue of Movies, Series, Short Films and Songs.
                   </p>
+                  
                 </div>
               </div>
+            </a>
+
             </div>
             <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.4s"
             >
+              <Link href="/">
               <div
                 className={`${
                   open === "p2"
@@ -84,12 +92,14 @@ function Service() {
                   </p>
                 </div>
               </div>
+              </Link>
             </div>
             <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.6s"
             >
+               <Link href="/minilive-studios">
               <div
                 className={`${
                   open === "p3"
@@ -112,6 +122,7 @@ function Service() {
                   </p>
                 </div>
               </div>
+              </Link>
             </div>
           </div>
 
@@ -122,6 +133,7 @@ function Service() {
               data-wow-duration="2s"
               data-wow-delay="0.2s"
             >
+               <Link href="/production"> 
               <div
                 className={`${
                   open === "p4"
@@ -144,12 +156,14 @@ function Service() {
                   </p>
                 </div>
               </div>
+              </Link>
             </div>
             <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.4s"
             >
+                 <Link href="/branding"> 
               <div
                 className={`${
                   open === "p5"
@@ -158,6 +172,7 @@ function Service() {
                 }`}
                 onMouseOver={() => setOpen("p5")}
               >
+              
                 <div>
                 {/* //  className="icon-bx-md radius bg-red shadow-red">
                 //   <a href="javascript:void(0);" className="icon-cell">
@@ -166,18 +181,20 @@ function Service() {
                  <img  className="move-1" src="images/Services/branding.png"/>
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title text-primary">Branding</h4>
+                  <h4 className="dlab-title text-primary">  Branding  </h4>
                   <p>
                   We Provides solutions for all broadcast needs: In-Film Branding, Advertising, Sponsorship, Media Partnership & more.
                   </p>
                 </div>
               </div>
+              </Link>
             </div>
             <div
               className="col-lg-4 col-md-6 wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.6s"
             >
+              <Link href="/contact-us">
               <div
                 className={`${
                   open === "p6"
@@ -202,6 +219,7 @@ function Service() {
                   </p>
                 </div>
               </div>
+              </Link>
             </div>
           </div>
 

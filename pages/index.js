@@ -16,6 +16,7 @@ import Testimonial from "../element/testimonial";
  
 import Footer from "../layout/footer";
 import Header from "../layout/header";
+
 function Home() {
   useEffect(() => {
     document.querySelector("body").setAttribute("color", "color_1");
