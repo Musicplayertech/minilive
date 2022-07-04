@@ -23,7 +23,7 @@ function Slider1 () {
 							<div className="banner-content">
 								<h1 data-wow-duration="1s" data-wow-delay="0.5s" className="wow fadeInUp title text-primary">MiniLive</h1>
 								<h3 data-wow-duration="1.2s" data-wow-delay="1s" className="wow fadeInUp "> Intellectual, logical, <span className="text-primary">Innovations !</span></h3>
-								<h6  data-wow-duration="1.4s" data-wow-delay="1.5s" className="wow fadeInUp sub-title">Every Personnel teamed here, has a 100% motive to ENTERTAIN.</h6>
+								<h5  data-wow-duration="1.4s" data-wow-delay="1.5s" className="wow fadeInUp ">Every Personnel teamed here, has a 100% motive to ENTERTAIN.</h5>
  
 								<a href="https://play.google.com/store/apps/details?id=com.minilive&hl=en_IN" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Google Play" width="175" height="auto" /> </a>
 								<a href="https://www.apple.com/in/app-store/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="App Store" width="150" height="auto"  /></a>
