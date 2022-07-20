@@ -29,7 +29,7 @@ function Media() {
 							<h4 className="dlab-title">
 								Brave new world: Navigating India’s evolving social media landscape | 5 key takeaways from sector leaders. 
 								</h4>
-								<p className="m-b0 text-black">MiniLive’s Brijesh said that he is working towards enabling quality streaming on his platform above all else, which will lead to better acquisition and retention, given that users seek it the most...</p>
+								<p className="m-b0 text-black">MiniLive’s Brijesh said that he is working towards enabling quality streaming on his platform above all else, which will lead to better acquisition and retention...</p>
 							<span>Read More></span>
 								{/* <div className="dlab-meta">
 									<ul>
