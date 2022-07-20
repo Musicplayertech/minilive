@@ -7,15 +7,19 @@ function onChange(value) {
 function Quote() {
 	return (
 		<>
-			<section className="content-inner">
+			<section className="content-inner"   >
 				<div className="container">
+				<div className="section-head style-3 text-center">
+				<div className="section-head style-1">
+							<h6 className="sub-title bgl-primary m-b20 text-primary">Contact Us</h6>
+							 <h3 className="">We’re here to help you. Let us know how we can help you. </h3>
+						</div>
+				</div>
 					<div className="row align-items-center">
 						<div className="col-xl-6 col-lg-7 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
 							<div className="section-head style-1">
-								<h6 className="sub-title bgl-primary m-b20 text-primary">Contact Us</h6>
-								<p>When there are great ideas at stake, it’s always a good idea to share. Tell us how can we make it happen for you!
-
-<br/><span className="text-primary ">Fill the form below or mail us at - help@minilive.in</span></p>
+								{/* <h6 className="sub-title bgl-primary m-b20 text-primary">Contact Us</h6> */}
+								<p >Fill the form below or mail us at - <span className="text-primary">contact@minilive.in</span></p>
 							</div>
 							<form className="dlab-form dzForm" method="POST" action="script/contact.php">
 								<div className="dzFormMsg"></div>
@@ -42,7 +46,7 @@ function Quote() {
 											<div className="input-group-prepend">
 												<span className="input-group-text"><i className="la la-envelope text-mini"></i></span>
 											</div>
-											<input name="dzEmail" type="text" required className="form-control" placeholder="Email Address" />
+											<input name="dzEmail" type="text" required className="form-control" placeholder="Email" />
 										</div>
 									</div>
 									<div className="col-sm-6">
@@ -68,8 +72,8 @@ function Quote() {
 											</div>
 											<select name="dzOther[choose_service]" className="form-control" required>
 												<option selected>Products/Services</option>
-												<option value="1">Minilive - Short Videos</option>
-												<option value="2">MiniPIX</option>
+												<option value="1">MiniPIX</option>
+												<option value="2">MiniLive</option>
 												<option value="3">MiniLive Studios</option>
 												<option value="3">Production</option>
 												<option value="3">Branding</option>
@@ -102,7 +106,7 @@ function Quote() {
 						</div>
 						<div className="col-xl-6 col-lg-5 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
 							<div className="dlab-media cf-r-img">
-								<img src="images/about/contact-us.png" className="move-1" alt="" />
+								<img src="images/about/contact-us-old.png" className="" alt="" />
 							</div>
 						</div>
 					</div>

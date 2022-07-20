@@ -20,37 +20,37 @@ function Branding() {
 			<div className="container">  
             <div className="section-head style-3 text-center">
 				<div className="section-head style-1">
-							<h6 className="sub-title bgl-primary m-b20 text-primary">Branding</h6>
-							<h3 className="text-primary">We Provides solutions for all broadcast needs: In-Film Branding, Advertising, Sponsorship, Media Partnership & more.</h3>
+							{/* <h6 className="sub-title bgl-primary m-b20 text-primary">Branding</h6> */}
+							<h4 className=" ">We Provides solutions for : In-Film Branding, Advertising, Sponsorship, Media Partnership & more.</h4>
 						</div>
 				</div> 
                 <div className="row align-items-center">
-				    <div className="col-lg-4 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
+				    <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
                          <div className="dz-media">
-							<img src="images/about/In-FilmBranding.png" className="move-1" alt=""/>
+							<img src="images/branding/filmbranding.jpg" className="" alt=""/>
 						</div>
 					</div>
                     
-                    <div className="col-lg-8 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
+                    <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
                     <div className="section-head style-1 mb-4">
 							 
-                             <h2 className="title text-primary">In-Film Branding</h2>
+                             <h2 className="title">In-Film Branding</h2>
                          </div>
                         <p>In-Film Branding is nothing but marketing brands through movies. Consumers are exhausted of traditional brand communication and they desire to receive communication in an entertaining and enjoyable way. We provide an innovative stage for brands to reach their potential consumers.</p>
 						{/* <p>This app has been created with a goal to have FULL TIME ENTERTAINMENT for our audience . This will boost “Self-Reliant India and Vocal for Local”. Through ‘MiniLive App’, you can Entertain and be Famous, along with Infotainment.</p>
 						<p className="m-b30">Come & Hop On ! To A Fun Filled FULL Time Entertainment Journey With Our Product & Services.</p>
 				 */}
 					</div>
-                </div>
+                </div><br/>
 
     {/* Advertising */} 
 			 
                 <div className="row align-items-center">
 				  
-                    <div className="col-lg-8 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
+                    <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
                     <div className="section-head style-1 mb-4">
 							 
-                             <h2 className="title text-primary">Advertising</h2>
+                             <h2 className="title">Advertising</h2>
                          </div>
                         <p>Ad films are a creative way of reaching out to the audience with your product without barraging them with loads of information.</p>
 						{/* <p>This app has been created with a goal to have FULL TIME ENTERTAINMENT for our audience . This will boost “Self-Reliant India and Vocal for Local”. Through ‘MiniLive App’, you can Entertain and be Famous, along with Infotainment.</p>
@@ -58,45 +58,45 @@ function Branding() {
 				 */}
 					</div>
 
-                    <div className="col-lg-4 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
                          <div className="dz-media">
 						 
-                            <img src="images/about/AdFilms.png" className="move-1" alt=""/>
+                         <img src="images/branding/ads.jpg" className="" alt=""/>
 						</div>
 					</div>
                     
                 </div>
-
+<br/>
 
  {/*Sponsorship*/} 
 			 
  <div className="row align-items-center">
-				    <div className="col-lg-4 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
+				    <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
                          <div className="dz-media">
-							<img src="images/about/Sponsorship.png" className="move-1" alt=""/>
+							<img src="images/branding/msponser.jpg" className="" alt=""/>
 						</div>
 					</div>
                     
-                    <div className="col-lg-8 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
+                    <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
                     <div className="section-head style-1 mb-4">
 							 
-                             <h2 className="title text-primary">Sponsorship</h2>
+                             <h2 className="title">Sponsorship</h2>
                          </div>
                         <p>A sponsorship is when a company commits money or resources to a nonprofit event or program in exchange for specific promotional benefits. In exchange for supporting the nonprofit, the company gets their name and logo on things like: Banners.</p>
 						{/* <p>This app has been created with a goal to have FULL TIME ENTERTAINMENT for our audience . This will boost “Self-Reliant India and Vocal for Local”. Through ‘MiniLive App’, you can Entertain and be Famous, along with Infotainment.</p>
 						<p className="m-b30">Come & Hop On ! To A Fun Filled FULL Time Entertainment Journey With Our Product & Services.</p>
 				 */}
 					</div>
-                </div>
+                </div><br/>
 
   {/* Media Partnership */} 
 			 
   <div className="row align-items-center">
 				  
-                  <div className="col-lg-8 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
+                  <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s"> 
                   <div className="section-head style-1 mb-4">
                            
-                           <h2 className="title text-primary">Media Partnership</h2>
+                           <h2 className="title ">Media Partnership</h2>
                        </div>
                       <p>A media partnership is a collaboration between two organizations (one of them is a media outlet) that can help each other by using promotion and raising visibility & credibility.</p>
                       {/* <p>This app has been created with a goal to have FULL TIME ENTERTAINMENT for our audience . This will boost “Self-Reliant India and Vocal for Local”. Through ‘MiniLive App’, you can Entertain and be Famous, along with Infotainment.</p>
@@ -104,9 +104,9 @@ function Branding() {
                */}
                   </div>
 
-                  <div className="col-lg-4 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
+                  <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
                        <div className="dz-media">
-                          <img src="images/about/MediaPartnership.png" className="move-1" alt=""/>
+                          <img src="images/branding/mpartner.jpg" className="" alt=""/>
                       </div>
                   </div>
                   
@@ -114,7 +114,7 @@ function Branding() {
 			</div>
 
 		</section>  
-            </div>
+            </div><br/><br/>
             <Footer />
         </>
     );

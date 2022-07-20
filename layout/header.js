@@ -80,10 +80,10 @@ function Header() {
                             </ul>
                             <div className="dlab-social-icon">
                                 <ul>
-                                <li><a className="fa fa-facebook" href="https://www.facebook.com/MiniLiveApp/" target="_blanck"></a></li>
-									<li><a className="fa fa-instagram" href="https://www.instagram.com/miniliveapp/" target="_blanck"></a></li>
-									<li><a className="fa fa-twitter" href="https://twitter.com/MiniLiveApp"  target="_blanck"></a></li>
-									<li><a className="fa fa-linkedin" href="https://www.linkedin.com/company/minilive/"  target="_blanck"></a></li>
+                                <li><a href="https://www.facebook.com/MiniLiveApp/" target="_blanck"><img src="images/social/fb.png" width={35} height={35}/></a></li>
+									<li><a href="https://twitter.com/MiniLiveApp"  target="_blanck"><img src="images/social/twitter.png" width={35} height={35}/></a></li>
+									<li> <a href="https://www.linkedin.com/company/minilive/"  target="_blanck"><img src="images/social/in.png" width={35} height={35}/></a></li>
+									<li> <a href="https://www.instagram.com/miniliveapp/" target="_blanck"><img src="images/social/insta.png" width={30} height={30} /></a></li>
                                 </ul>
                             </div>
                         </div>

@@ -40,10 +40,10 @@ function Team1() {
           
         >
           <div className="container">
-        	<div className="section-head style-1">
+        	{/* <div className="section-head style-1">
 								<h6 className="sub-title bgl-primary m-b20 text-primary">Core Team</h6>
 						 
-							</div>
+							</div> */}
             <div className="row">
               <div
                 className="col-xl-4 col-md-6 wow fadeInUp"
@@ -129,7 +129,7 @@ function Team1() {
                       <h4 className="dlab-name">
                       Alok Singh
                       </h4>
-                      <span className="dlab-position">Director – Product & Marketing</span>
+                      <span className="dlab-position">Director – Content Production</span>
                     </div>
                     <ul className="dlab-social-icon primary-light">
                       {/* <li>

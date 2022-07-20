@@ -24,21 +24,12 @@ function Home() {
   return (
     <>
       <Header />
-      <div className="page-content bg-white" id="top">
-        <Slider1 />
-        {/* <Clients /> */}
+      <div className="page-content bg-white " id="top">
+        <Slider1 /> 
         <Service />
-        <AboutUs />
-        {/* <Counter /> */}
-        <Features />
-       {/*  <Projects />
-          <Newsletter />
-             <Team />
-           <Pricing />
-        <Testimonial />
-        <Blog /> */}
-        <Quote />
-        {/* <Cta /> */}
+        <AboutUs /> 
+        <Features /> 
+        <Quote /> 
       </div>
       <Footer />
     </>

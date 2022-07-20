@@ -14,7 +14,7 @@ function AboutUs() {
     return (
         <>
             <Header />
-            <div className="page-content bg-white">
+            <div className="page-content bg-white" >
 
 		{/* <div className="dlab-bnr-inr overlay-primary-dark">
 			<div className="container">
@@ -30,50 +30,33 @@ function AboutUs() {
 
 				</div>
 			</div>
-		</div> */}
+		</div>  
 		{/* <!-- Banner End --> */}
 
 		{/* <!-- About Us --> */}
-		<section className="content-inner">
+		<section className="content-inner-2">
 			<div className="container">
-				<div className="row align-items-center">
-					<div className="col-lg-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
-						<div className="dz-media">
-							<img src="images/about/aboutus.png" className="move-3" alt=""/>
-						</div>
-					</div>
-					<div className="col-lg-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
-						<div className="section-head style-1 mb-4">
-							<h6 className="sub-title bgl-primary m-b20 text-primary">About Us</h6>
-							<h2 className="title text-primary">MiniLive-Hum hain " Dil Se Desi !" </h2>
-						</div>
-						<p>This app has been created with a goal to have FULL TIME ENTERTAINMENT for our audience . This will boost “Self-Reliant India and Vocal for Local”. Through ‘MiniLive App’, you can Entertain and be Famous, along with Infotainment.</p>
+			<div className="section-head style-1 text-center">
+            {/* <h6 className="sub-title bgl-primary m-b20 text-primary">
+            About Us
+            </h6> */}
+            <h2 className="title">Hum hain " Dil Se Desi !"</h2>
+			<p>This app has been created with a goal to have FULL TIME ENTERTAINMENT for our audience . This will boost “Self-Reliant India and Vocal for Local”. Through ‘MiniLive App’, you can Entertain and be Famous, along with Infotainment.</p>
 						<p className="m-b30">Come & Hop On ! To A Fun Filled FULL Time Entertainment Journey With Our Product & Services.</p>
-						{/* <div className="row">
-							<div className="col-lg-6">
-								<ul className="list-arrow primary">
-									<li>Nulla dict posuere veliitae.</li>
-									<li>Etiam orci magna, accumsan.</li>
-									<li>Donec fringilla velit risusquis.</li>
-									<li>Aliquam pulvinar tempor.</li>
-								</ul>
-							</div>
-							<div className="col-lg-6">
-								<ul className="list-arrow primary">
-									<li>Nulla dict posuere veliitae.</li>
-									<li>Etiam orci magna, accumsan.</li>
-									<li>Donec fringilla velit risusquis.</li>
-									<li>Aliquam diam tempor.</li>
-								</ul>
-							</div>
-						</div> */}
+          </div>
+				<div className="row align-items-center"> 
+					<div className="col-lg-12 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
+						<div className="dz-media">
+							<img src="images/main-slider/slider1/about-bg.png" className="" alt=""/>
+						</div>
 					</div>
+					 
 				</div>
 			</div>
 		</section> 
 
 		{/* <!-- About Us --> */}
-		<section className="content-inner">
+		{/* <section className="content-inner">
 			<div className="container">
 				<div className="row align-items-center">
 					<div className="col-lg-6 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -123,7 +106,7 @@ function AboutUs() {
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> */}
 
 
 		{/* <!-- Team --> */}
@@ -148,7 +131,7 @@ function AboutUs() {
 		{/* <Blog/> */}
 
 		{/* <!-- Get A Quote --> */}
-		<Quote/>
+		{/* <Quote/> */}
 
 		{/* <!-- Call To Action --> */}
 		{/* <section style={{"backgroundImage":"url(images/background/bg5.jpg)","backgroundSize":"cover"}}>

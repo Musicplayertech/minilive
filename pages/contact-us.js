@@ -8,7 +8,9 @@ function ContactUs1() {
   return (
     <>
 	<Header/>
-      <div className="page-content bg-white">  
+      <div className="page-content bg-white"  
+	//    style={{"backgroundImage":"url(images/main-slider/slider1/bg2.jpg)"}}
+	   >  
 			<section className="content-inner-2">
 				<Quote/>
 		 </section>

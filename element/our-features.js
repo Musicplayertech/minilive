@@ -3,12 +3,14 @@ function Features() {
     return (
       <>
         {/* <!-- Our Fetures --> */}
-		<section className="content-inner bg-white">
+		<section className="content-inner" 
+		//   style={{"backgroundImage":"url(images/main-slider/slider1/bg2.jpg)"}}
+		  >
 			<div className="container">
 				<div className="section-head style-3 text-center">
 				<div className="section-head style-1">
 							<h6 className="sub-title bgl-primary m-b20 text-primary">Features</h6>
-							<h3 className="text-primary">We help users to create and edit their own videos and share them with the world.</h3>
+							<h3 className="">We help users to create and edit their own videos and share them with the world.</h3>
 						</div>
 				</div>
 				<div className="row align-items-center about-wraper-2">

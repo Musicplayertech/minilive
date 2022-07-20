@@ -17,7 +17,7 @@ function Service() {
   return (
     <>
       <section
-        className="content-inner-2 wow fadeInUp"
+        className="content-inner wow fadeInUp"  
         // style={{ backgroundImage: "url(images/background/bg1.png)" }}
       >
         <div className="container">
@@ -25,7 +25,7 @@ function Service() {
             <h6 className="sub-title bgl-primary m-b20 text-primary">
               Products & Services
             </h6>
-            <h2 className="title text-primary">Hum hain " Dil Se Desi "</h2>
+            <h2 className="title">Hum hain " Dil Se Desi "</h2>
           </div>
           <div className="row">
             <div
@@ -54,7 +54,7 @@ function Service() {
                 </div>
                 <div className="icon-content">
               
-                  <h4 className="dlab-title text-primary">MiniPIX</h4>
+                  <h4 className="dlab-title  text-primary ">MiniPIX</h4>
                   <p className="text-black">
                   Our Services are built to be for Every Common Person’s ENTERTAINMENT reach with a catalogue of Movies, Series, Short Films and Songs.
                   </p>
@@ -86,7 +86,7 @@ function Service() {
                  <img className="move-1" src="images/Services/minilive.png"/>
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title text-primary">MiniLive</h4>
+                  <h4 className="dlab-title  text-primary ">MiniLive</h4>
                   <p>
                   MiniLive-An Indian Short Video App, Come & Hop On ! To A Fun Filled FULL Time Entertainment Journey With Our Product & Services.
                   </p>
@@ -116,9 +116,9 @@ function Service() {
                  <img  className="move-1" src="images/Services/studio.png"/>
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title text-primary">MiniLive Studios</h4>
+                  <h4 className="dlab-title  text-primary ">MiniLive Studios</h4>
                   <p>
-                  We Provides solutions for all broadcast needs: Recording Studio, Online Edits, Offline Edits, DI, VFX & more.
+                  We Provides solutions for all broadcast needs: Recording Studio, Online Edits, Offline Edits, DI, VFX and much more.
                   </p>
                 </div>
               </div>
@@ -150,7 +150,7 @@ function Service() {
                  <img  className="move-1" src="images/Services/production.png"/>
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title text-primary">Production</h4>
+                  <h4 className="dlab-title   text-primary">Production</h4>
                   <p>
                   We Provides solutions for all broadcast needs: Feature Films, Ad Films, Web Series, Short Films, Music Albums, AV Creation & more.
                   </p>
@@ -181,7 +181,7 @@ function Service() {
                  <img  className="move-1" src="images/Services/branding.png"/>
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title text-primary">  Branding  </h4>
+                  <h4 className="dlab-title   text-primary">  Branding  </h4>
                   <p>
                   We Provides solutions for all broadcast needs: In-Film Branding, Advertising, Sponsorship, Media Partnership & more.
                   </p>
@@ -211,7 +211,7 @@ function Service() {
                  <img  className="move-1" src="images/Services/support.png"/>
                 </div>
                 <div className="icon-content">
-                  <h4 className="dlab-title text-primary">24X7 Support</h4>
+                  <h4 className="dlab-title  text-primary">24X7 Support</h4>
                   <p className="text-black">
                   Please feel free to write to us at connect@minilive.in for any feedback or queries. 
                    It will help us reach out to you quickly.
