@@ -40,10 +40,12 @@ function Team1() {
           
         >
           <div className="container">
-        	{/* <div className="section-head style-1">
-								<h6 className="sub-title bgl-primary m-b20 text-primary">Core Team</h6>
+          <div className="section-head style-3 text-center">
+				<div className="section-head style-1"> <br/>
+							<h6 className="sub-title bgl-primary m-b20 text-primary">Core Team</h6>
 						 
-							</div> */}
+						</div>
+				</div>
             <div className="row">
               <div
                 className="col-xl-4 col-md-6 wow fadeInUp"

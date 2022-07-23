@@ -17,11 +17,17 @@ function CC() {
             <div className="page-content bg-white"> 
 	{/* <!-- Cultures --> */}
             <section className="content-inner-2"> 
-			<div className="container">  
+			<div className="container"> 
+			<div className="section-head style-3 text-center">
+				<div className="section-head style-1"> <br/>
+							<h6 className="sub-title bgl-primary m-b20 text-primary">Cultures & Careers</h6>
+							<h3 className="">Hum hain "Dil Se Desi!"</h3>
+						</div>
+				</div> 
             <div className="section-head style-3 text-center">
 				<div className="section-head style-1">
 							{/* <h6 className="sub-title bgl-primary m-b20 text-primary">Cultures</h6> */}
-							<h3 className="">Hum hain "Dil Se Desi!"</h3>
+							
 						 
 						</div>
 				</div> 

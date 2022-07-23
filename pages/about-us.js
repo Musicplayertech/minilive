@@ -36,6 +36,12 @@ function AboutUs() {
 		{/* <!-- About Us --> */}
 		<section className="content-inner-2">
 			<div className="container">
+			<div className="section-head style-3 text-center">
+				<div className="section-head style-1"> <br/>
+							<h6 className="sub-title bgl-primary m-b20 text-primary">About Us</h6>
+						 
+						</div>
+				</div>
 			<div className="section-head style-1 text-center">
             {/* <h6 className="sub-title bgl-primary m-b20 text-primary">
             About Us

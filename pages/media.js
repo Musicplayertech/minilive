@@ -12,11 +12,12 @@ function Media() {
 		{/* <!-- Blog Large --> */}
 		<section className="content-inner-2">
 			<div className="container">
-
-			{/* <div className="section-head style-1">
-								<h6 className="sub-title bgl-primary m-b20 text-primary">Media</h6>
+			<div className="section-head style-3 text-center">
+				<div className="section-head style-1">
+							<h6 className="sub-title bgl-primary m-b20 text-primary">Media</h6>
 						 
-							</div> */}
+						</div>
+				</div>
 
 				<div className="row">
 					<div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -29,7 +30,7 @@ function Media() {
 							<h4 className="dlab-title">
 								Brave new world: Navigating India’s evolving social media landscape | 5 key takeaways from sector leaders. 
 								</h4>
-								<p className="m-b0 text-black">MiniLive’s Brijesh said that he is working towards enabling quality streaming on his platform above all else, which will lead to better acquisition and retention...</p>
+								<p className="m-b0 text-black">MiniLive’s Brijesh said that he is working towards enabling quality streaming on his platform above all else, which will lead to better acquisition and retention, given that users seek it the most...</p>
 							<span>Read More></span>
 								{/* <div className="dlab-meta">
 									<ul>

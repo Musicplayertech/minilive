@@ -19,11 +19,12 @@ function MiniliveStudios() {
             <section className="content-inner-2"> 
 			<div className="container">  
             <div className="section-head style-3 text-center">
-				<div className="section-head style-1">
-							{/* <h6 className="sub-title bgl-primary m-b20 text-primary ">MiniLive Studios</h6> */}
-							<h4 className="">We Provides solutions for : Recording Studios, Online Edits, Offline Edits, DI, VFX & more.</h4>
+				<div className="section-head style-1"><br/>
+							<h6 className="sub-title bgl-primary m-b20 text-primary">MiniLive Studios</h6>
+                            <h3 className="">We Provides solutions for : Recording Studios, Online Edits, Offline Edits, DI, VFX & more.</h3>
 						</div>
-				</div> 
+				</div>
+             
                 <div className="row align-items-center">
 				    <div className="col-lg-6 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
                          <div className="dz-media">
