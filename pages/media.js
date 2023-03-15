@@ -31,7 +31,7 @@ function Media() {
 								Brave new world: Navigating India’s evolving social media landscape | 5 key takeaways from sector leaders. 
 								</h4>
 								<p className="m-b0 text-black">MiniLive’s Brijesh said that he is working towards enabling quality streaming on his platform above all else, which will lead to better acquisition and retention, given that users seek it the most...</p>
-							<span>Read More></span>
+							<span>Read More</span>
 								{/* <div className="dlab-meta">
 									<ul>
 										<li className="post-date"><i className="flaticon-clock m-r10"></i>March 23, 2021</li>
@@ -82,7 +82,7 @@ function Media() {
 								</h4>
 								<p className="m-b0 text-black">प्रदीप तिवारी/गोरखपुर: मकर संक्रांति के अवसर पर गोरखपुर सदर सांसद रवि किशन ने एक स्थानीय होटल में पहुंचकर टिकटॉक की तर्ज पर बने मिनी लाइव ऐप को लांच किया. साथ ही एक फिल्म का फर्स्ट लुक पोस्टर भी जारी किया...
 								</p>
-								<span>Read More></span>
+								<span>Read More</span>
 							</div>
 							
 						</div>
@@ -117,7 +117,7 @@ function Media() {
 										गोरखपुर जिले में सासंद रवि किशन ने मिनी लाइव ऐप को लांच किया है. वह इस ऐप के ब्रांड एंबेसडर भी हैं.स्थानीय कलाकारों को मौका मिलेगा.
 								</h4> 
 								<p className="m-b0 text-black">गोरखपुर के सांसद रवि किशन ने गुरुवार को मकर संक्रांति के अवसर पर स्थानीय कलाकारों को प्लेटफार्म देने और आत्म निर्भर भारत को बढ़ावा देने के लिए गोरखपुर के युवाओं द्वारा तैयार मिनी लाइव ऐप को लांच किया।</p>
-							<span>Read More> </span>
+							<span>Read More </span>
 							</div>
 						
 						</div>
@@ -136,7 +136,7 @@ function Media() {
 										लोकल कलाकारों की प्रतिभा को प्लेटफार्म देगा मिनी लाइव ऐप : रवि किशन
 								</h4>
 								<p className="m-b0 text-black">गोरखपुर,14 जनवरी( हि. स.)। गोरखपुर के सांसद रवि किशन ने गुरुवार को मकर संक्रांति के अवसर पर स्थानीय कलाकारों को प्लेटफार्म देने और आत्म निर्भर भारत को बढ़ावा देने के लिए गोरखपुर के युवाओं द्वारा तैयार मिनी लाइव ऐप को लांच किया...</p>
-						<span>Read More></span>
+						<span>Read More</span>
 							</div>
 							
 						</div>
