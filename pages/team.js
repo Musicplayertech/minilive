@@ -157,7 +157,7 @@ function Team1() {
                 </div>
               </div>
           {/* ----------------------------------------------------------------------------------------------------- */}
-              <div
+              {/* <div
                 className="col-xl-4 col-md-6 wow fadeInUp"
                 data-wow-duration="2s"
                 data-wow-delay="0.4s"
@@ -185,7 +185,7 @@ function Team1() {
                           href="https://www.instagram.com/"
                           className="fa fa-instagram"
                         ></a>
-                      </li> */}
+                      </li>  
                       <li>
                         <a
                           href="https://www.linkedin.com/in/ritesh-rajpal-5b52926b/"
@@ -195,7 +195,7 @@ function Team1() {
                     </ul>
                   </div>
                 </div>
-              </div>
+              </div> */}
            {/* ----------------------------------------------------------------------------------------------------- */}
            {/* <div
                 className="col-xl-4 col-md-6 wow fadeInUp"
