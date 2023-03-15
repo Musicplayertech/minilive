@@ -286,7 +286,7 @@ function BlogDetails1() {
                                     </div>
 									<div className="widget-post clearfix">
                                         <div className="dlab-media"> 
-                                            <img src="images/blog/recent-blog/pic3.jpg" alt=""/>a>
+                                            <img src="images/blog/recent-blog/pic3.jpg" alt=""/>
 										</div>
                                         <div className="dlab-info">
 											<h4 className="title"><a href="/blog-large-right-sidebar">Fusce mollis felis quis tristique</a></h4>
