@@ -6,27 +6,25 @@ import Link from 'next/link';
 function BlogLargeRightSidebar() {
   return (
     <>
-	<Header/>
+	{/* <Header/>
       <div className="page-content bg-white">
-		{/* <!-- Banner  --> */}
+	 
 		<div className="dlab-bnr-inr overlay-primary-dark" style={{"backgroundImage":"url(images/banner/bnr1.jpg)"}}>
 			<div className="container">
 				<div className="dlab-bnr-inr-entry">
 					<h1>Blog Large</h1>
-					{/* <!-- Breadcrumb Row --> */}
+				 
 					<nav aria-label="breadcrumb" className="breadcrumb-row">
 						<ul className="breadcrumb">
 							<li className="breadcrumb-item"><Link href="/"><a>Home</a></Link></li>
 							<li className="breadcrumb-item active" aria-current="page">Blog</li>
 						</ul>
 					</nav>
-					{/* <!-- Breadcrumb Row End --> */}
+					 
 				</div>
 			</div>
 		</div>
-		{/* <!-- Banner End --> */}
-		
-		{/* <!-- Blog Large --> */}
+	 
 		<section className="content-inner bg-img-fix" style={{"backgroundImage":"url(images/background/bg1.png)"}}>
 			<div className="container">
 				<div className="row">
@@ -231,7 +229,7 @@ function BlogLargeRightSidebar() {
 			</div>
 		</section>
 		
-		{/* <!-- Call To Action --> */}
+	 
 		<section style={{"backgroundImage":"url(images/background/bg5.jpg)","backgroundSize":"cover"}}>
 			<div className="container">
 				<div className="row action-box style-1 align-items-center">
@@ -249,7 +247,7 @@ function BlogLargeRightSidebar() {
 		</section>
 		
 	</div>
-	<Footer/>
+	<Footer/> */}
     </>
   )
 }
