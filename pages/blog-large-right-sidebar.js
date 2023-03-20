@@ -6,7 +6,7 @@ import Link from 'next/link';
 function BlogLargeRightSidebar() {
   return (
     <>
-	{/* <Header/>
+	<Header/>
       <div className="page-content bg-white">
 	 
 		<div className="dlab-bnr-inr overlay-primary-dark" style={{"backgroundImage":"url(images/banner/bnr1.jpg)"}}>
@@ -247,7 +247,7 @@ function BlogLargeRightSidebar() {
 		</section>
 		
 	</div>
-	<Footer/> */}
+	<Footer/>
     </>
   )
 }
