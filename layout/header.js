@@ -46,7 +46,7 @@ function Header() {
                                 </li> */}
                                 <li className={`${open === "services" ? "open" : ""}`}><a onClick={() => setOpen("services")}><span>Products & Services</span><i className="fa fa-chevron-down"></i></a>
                                     <ul className="sub-menu"> 
-                                    <li> <a href="https://beta.minipix.in/" target='_blank'>MiniPIX</a> </li>
+                                    <li> <a href="https://minipix.in/" target='_blank'>MiniPIX</a> </li>
                                     <li><Link href="/"><a>MiniLive</a></Link></li>
                                     <li><Link href="/minilive-studios"><a>MiniLive Studios</a></Link></li>
                                     <li><Link href="/production"><a>Production</a></Link></li>
