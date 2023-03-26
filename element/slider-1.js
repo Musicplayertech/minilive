@@ -28,7 +28,7 @@ function Slider1 () {
 					<div className="col-md-6">
 							<div className="dz-media move-box wow fadeIn" data-wow-duration="1.6s" data-wow-delay="0.8s" >
 								{/* <img className="move-1" src="images/move/pic1.png" alt=""/> */}
-								<img className="move-1" src="images/Minilive_home.png" alt=""/>
+								<img className="move-1" src="images/home.png" alt=""/>
 							</div>
 						</div>
 					</div>
