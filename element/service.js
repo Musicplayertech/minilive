@@ -33,7 +33,7 @@ function Service() {
               data-wow-duration="2s"
               data-wow-delay="0.2s"
             >
-             <a href="https://beta.minipix.in" target="_blank">
+             <a href="https://minipix.in" target="_blank">
               <div  
                 className={`${
                   open === "p1"

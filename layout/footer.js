@@ -75,7 +75,7 @@ function Footer() {
 								<li><a href="/media" className="text-black">Media</a></li>
 								<li><a href="/team" className="text-black">Our Team</a></li>
 								<li><a href="/about-us" className="text-black">About Us</a></li>
-								<li><a href="/contact-us" className="text-black">Contsct Us</a></li>
+								<li><a href="/contact-us" className="text-black">Contact Us</a></li>
 							</ul>
 						</div>
                     </div>
@@ -95,7 +95,7 @@ function Footer() {
 				 <hr/>
 				<div className="row">
                     <div className="col-sm-12 text-center"> 
-					<p > Copyright © 2022 <span className="text-primary"> Intellogic Innovations Pvt Ltd.</span> All Rights Reserved. </p> 
+					<p > Copyright © 2023 <span className="text-primary"> Intellogic Innovations Pvt Ltd.</span> All Rights Reserved. </p> 
 					</div>
                 </div>
             </div>
