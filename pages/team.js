@@ -117,45 +117,7 @@ function Team1() {
                 </div>
               </div>
   {/* ----------------------------------------------------------------------------------------------------- */}
-              <div
-                className="col-xl-4 col-md-6 wow fadeInUp"
-                data-wow-duration="2s"
-                data-wow-delay="0.3s"
-              >
-                <div className="dlab-team style-1 m-b30">
-                  <div className="dlab-media dlab-img-effect zoom zoom-slow">
-                      <img src="images/team/pic10.png" alt="" />
-                  </div>
-                  <div className="dlab-content">
-                    <div className="clearfix">
-                      <h4 className="dlab-name">
-                      Alok Singh
-                      </h4>
-                      <span className="dlab-position">Director – Content Production</span>
-                    </div>
-                    <ul className="dlab-social-icon primary-light">
-                      {/* <li>
-                        <a
-                          href="https://en-gb.facebook.com/"
-                          className="fa fa-facebook"
-                        ></a>
-                      </li>
-                      <li>
-                        <a
-                          href="https://www.instagram.com/"
-                          className="fa fa-instagram"
-                        ></a>
-                      </li> */}
-                      <li>
-                        <a
-                          href="https://twitter.com/login?lang=en"
-                          className="fa fa-linkedin" target="_blanck"
-                        ></a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+              
           {/* ----------------------------------------------------------------------------------------------------- */}
               {/* <div
                 className="col-xl-4 col-md-6 wow fadeInUp"
