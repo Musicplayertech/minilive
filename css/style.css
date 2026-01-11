@@ -15157,19 +15157,15 @@ textarea {
   opacity: 0.3;
 }
 
-.dlab-img-overlay9:before:before,
-.dlab-img-overlay9:before:after,
-.dlab-img-overlay9:after:before,
-.dlab-img-overlay9:after:after {
+.dlab-img-overlay9::before,
+.dlab-img-overlay9::after {
   left: auto;
   right: 0;
   top: auto;
   bottom: 0;
 }
-.dlab-img-overlay9:before:hover:before,
-.dlab-img-overlay9:before:hover:after,
-.dlab-img-overlay9:after:hover:before,
-.dlab-img-overlay9:after:hover:after {
+.dlab-img-overlay9:hover::before,
+.dlab-img-overlay9:hover::after {
   width: 100%;
   height: 100%;
   opacity: 0.3;

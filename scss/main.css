@@ -104,7 +104,6 @@ body {
   color: #222222;
   text-align: left;
   background-color: #fff;
-  
 }
 
 [tabindex="-1"]:focus {
@@ -10789,7 +10788,7 @@ button.bg-dark:focus {
 
 a.text-primary:hover,
 a.text-primary:focus {
-  color:#9c38d6 !important;
+  color: #9c38d6 !important;
 }
 
 .text-secondary {
@@ -13506,7 +13505,9 @@ label.error {
   color: #9c38d6;
 }
 
-.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(
+    .input-group-btn
+  ) {
   width: 100%;
 }
 
@@ -15075,7 +15076,7 @@ textarea {
     rgba(0, 0, 0, 0.4) 100%
   );
 }
-.dlab-img-overlay2:before:hover:before {
+.dlab-img-overlay2:hover:before {
   opacity: 0.9;
 }
 
@@ -15147,19 +15148,15 @@ textarea {
   opacity: 0.3;
 }
 
-.dlab-img-overlay9:before:before,
-.dlab-img-overlay9:before:after,
-.dlab-img-overlay9:after:before,
-.dlab-img-overlay9:after:after {
+.dlab-img-overlay9::before,
+.dlab-img-overlay9::after {
   left: auto;
   right: 0;
   top: auto;
   bottom: 0;
 }
-.dlab-img-overlay9:before:hover:before,
-.dlab-img-overlay9:before:hover:after,
-.dlab-img-overlay9:after:hover:before,
-.dlab-img-overlay9:after:hover:after {
+.dlab-img-overlay9:hover::before,
+.dlab-img-overlay9:hover::after {
   width: 100%;
   height: 100%;
   opacity: 0.3;
@@ -19830,7 +19827,6 @@ icon-bx-wraper style-4:hover .icon-cell i,
 }
 .site-header .container {
   position: relative;
-
 }
 .site-header .extra-nav {
   float: right;
