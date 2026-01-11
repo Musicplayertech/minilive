@@ -57,9 +57,6 @@ function Footer() {
                     3rd Floor, Rear Wing, Sarakki Industrial Layout, 3rd Phase,
                     J. P. Nagar, Bengaluru, Karnataka 560078. <br />
                     <br />
-                    <b>Mumbai -</b> Advent Atria Tower, 503, Chincholi Bunder
-                    Rd, opp. Kingston Height, Malad West, Mumbai, Maharashtra
-                    400064.
                   </p>
 
                   <ul>
