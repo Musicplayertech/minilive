@@ -15085,7 +15085,7 @@ textarea {
     rgba(0, 0, 0, 0.4) 100%
   );
 }
-.dlab-img-overlay2:before:hover:before {
+.dlab-img-overlay2:hover:before {
   opacity: 0.9;
 }
 
